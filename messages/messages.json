@@ -18,6 +18,16 @@
       "messagewithoutreason":"{member} was banned by {author} without any reason.",
       "messageban":"{member} was banned by {author} for {reason}",
       "days": 1
+    },
+        {
+      "class":"kick",
+      "noacc":"you don't have permission.",
+      "nomention":"you need to mention someone",
+      "kickyourself":"you cannot kick yourself LMAO.",
+      "nokick":"I can't kick this user.",
+      "nokick2":"I cannot kick a member that has acces to kick other members",
+      "messagewithoutreason":"{member} was kicked by {author} without any reason.",
+      "messagekick":"{member} was kicked by {author} for {reason}"
     }
   ]
 }
