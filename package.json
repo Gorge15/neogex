@@ -1,0 +1,45 @@
+{
+  "name": "neogex",
+  "version": "1.0.0",
+  "description": "This project is open source discord bot written in js using discord.js library which can be customized however you want.",
+  "main": "index.js",
+  "dependencies": {
+    "auto-reload-json": "^1.0.2",
+    "cheerio": "^1.0.0-rc.2",
+    "child_process": "^1.0.2",
+    "discord.js": "^11.4.2",
+    "enmap": "^3.1.3",
+    "enmap-level": "^2.0.0",
+    "file-exists": "^5.0.1",
+    "fs": "^0.0.1-security",
+    "google": "^2.1.0",
+    "hastebin-generator": "^1.1.4",
+    "lowdb": "^1.0.0",
+    "mathjs": "^4.0.0",
+    "path": "^0.12.7",
+    "querystring": "^0.2.0",
+    "safe-browse": "^1.0.1",
+    "safe-require": "^1.0.3",
+    "snekfetch": "^3.6.4",
+    "to-time": "^1.0.2",
+    "ytdl": "^0.10.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TotoShefulThau/neogex.git"
+  },
+  "keywords": [
+    "Discord.js",
+    "Bots"
+  ],
+  "author": "tautau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TotoShefulThau/neogex/issues"
+  },
+  "homepage": "https://github.com/TotoShefulThau/neogex#readme"
+}

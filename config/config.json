@@ -1,0 +1,9 @@
+{
+    "token":"Discord bot token",
+    "ownerid":"370622254029078538",
+    "prefix":"?!",
+    "botStatus":"dnd",
+    "botActivityType":"PLAYING",
+    "botActivityMessage":"whatever you want to show on bot playing",
+    "twithlink":"twitch link"
+}

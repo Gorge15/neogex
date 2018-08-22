@@ -1,0 +1,25 @@
+{
+  "all": [
+    {
+      "class":"ready",
+      "startUp":"The bot is ready!"
+    },
+    {
+      "class":"spam",
+      "nospammessage":"please don't spam the command."
+    },
+    {
+      "class":"ban",
+      "noacc":"you don't have permission.",
+      "nomention":"you need to mention someone",
+      "banyourself":"you cannot ban yourself LOL.",
+      "noban":"I can't ban this user.",
+      "noban2":"I cannot ban a member that has acces to ban other members",
+      "messagewithoutreason":"{member} was banned by {author} without any reason.",
+      "messageban":"{member} was banned by {author} for {reason}",
+      "days": 1
+    }
+  ]
+}
+
+
