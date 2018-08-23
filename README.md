@@ -27,4 +27,6 @@ When you finished editing the file, you can run your bot with `node index.js` or
 - Exec command
 - Eval command
 - Ban command
+- Kick command
+- Serverinfo command
 - Commands cooldown
