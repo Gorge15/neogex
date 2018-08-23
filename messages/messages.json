@@ -28,8 +28,14 @@
       "nokick2":"I cannot kick a member that has acces to kick other members",
       "messagewithoutreason":"{member} was kicked by {author} without any reason.",
       "messagekick":"{member} was kicked by {author} for {reason}"
+    },
+    {
+      "class":"serverinfo",
+      "nonumber":"{nonumber} is not a number!",
+      "invalidguild":"the ID is invalid!",
+      "Author":"Server info",
+      "hexColor":"#000001",
+      "senddata":"• Server Name: {name}\n• Server ID: {ID}\n• Owner: {owner} (ID: {ownerid})\n• Channels: {channelSize} ({textSize}x TextChannels, {voiceSize}x VoiceChannels and {categoryesSize}x Categories)\n• Members: {members} ({humans}x Humans and {bots}x Bots)\n• Roles: {roles} "
     }
   ]
 }
-
-
