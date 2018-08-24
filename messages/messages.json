@@ -36,6 +36,13 @@
       "Author":"Server info",
       "hexColor":"#000001",
       "senddata":"• Server Name: {name}\n• Server ID: {ID}\n• Owner: {owner} (ID: {ownerid})\n• Channels: {channelSize} ({textSize}x TextChannels, {voiceSize}x VoiceChannels and {categoryesSize}x Categories)\n• Members: {members} ({humans}x Humans and {bots}x Bots)\n• Roles: {roles} "
+    },
+    {
+      "class":"userinfo",
+      "noNick":"No Nickname set",
+      "noGame":"No game playing",
+      "hexColor":"#000001",
+      "senddata":"• Tag: {tag}\n• ID: {ID}\n• Nickname: {nick}\n• Status: {status}\n• Game: {game}\n• Joined at: {joined}"
     }
   ]
 }
