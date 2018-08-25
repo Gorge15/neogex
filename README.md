@@ -1,8 +1,11 @@
 **NeoGex Bot**
 
-This project is `open source` discord bot written in js using `Discord.js` library which can be customized however you want.
+This project is `open source` discord bot written in js using `Discord.js` library which can be customized however you 
+want.
+
 **Requierements**
 At least `node v8.10.0`
+
 **Instalation & Running the bot**
 `npm install` or `npm i`
 
