@@ -4,10 +4,10 @@ This project is `open source` discord bot written in js using `Discord.js` libra
 want.
 
 **Requierements**
-At least `node v8.10.0`
+At least `node v8.10.0`.
 
 **Instalation & Running the bot**
-`npm install` or `npm i`
+`npm install` or `npm i`.
 
 First of all, you have to edit your `config.json` file with your data. It should look like this:
 ```json
